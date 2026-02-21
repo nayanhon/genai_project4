@@ -1,0 +1,9 @@
+streamlit==1.54.0
+langchain==1.2.10
+langchain_community==0.4.1
+langchain_core==1.2.14
+langchain-text-splitters
+langchain-huggingface==1.2.0
+sentence-transformers==5.2.3
+faiss-cpu
+ollama
